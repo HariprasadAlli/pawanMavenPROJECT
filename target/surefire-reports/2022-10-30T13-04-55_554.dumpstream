@@ -1,4 +1,4 @@
-# Created at 2022-10-30T10:37:15.290
+# Created at 2022-10-30T13:04:56.184
 Boot Manifest-JAR contains absolute paths in classpath 'D:\SeleniumQspiders\MavP\target\test-classes'
 Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
 'other' has different root

@@ -2,18 +2,18 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-10-30T10:37:17 IST" name="Surefire suite" finished-at="2022-10-30T10:38:22 IST" duration-ms="64444">
+  <suite started-at="2022-10-30T13:05:00 IST" name="Surefire suite" finished-at="2022-10-30T13:05:40 IST" duration-ms="39894">
     <groups>
     </groups>
-    <test started-at="2022-10-30T10:37:17 IST" name="Surefire test" finished-at="2022-10-30T10:38:22 IST" duration-ms="64444">
+    <test started-at="2022-10-30T13:05:00 IST" name="Surefire test" finished-at="2022-10-30T13:05:40 IST" duration-ms="39894">
       <class name="mavenPackage.Access_GoogleTest">
-        <test-method signature="mOne()[pri:0, instance:mavenPackage.Access_GoogleTest@80ec1f8]" started-at="2022-10-30T10:37:45 IST" name="mOne" finished-at="2022-10-30T10:38:22 IST" duration-ms="37059" status="PASS">
+        <test-method signature="mOne()[pri:0, instance:mavenPackage.Access_GoogleTest@80ec1f8]" started-at="2022-10-30T13:05:25 IST" name="mOne" finished-at="2022-10-30T13:05:40 IST" duration-ms="14559" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mOne -->
       </class> <!-- mavenPackage.Access_GoogleTest -->
       <class name="mavenPackage.Access_FaceBookTest">
-        <test-method signature="mOne()[pri:0, instance:mavenPackage.Access_FaceBookTest@5606c0b]" started-at="2022-10-30T10:37:17 IST" name="mOne" finished-at="2022-10-30T10:37:45 IST" duration-ms="27321" status="PASS">
+        <test-method signature="mOne()[pri:0, instance:mavenPackage.Access_FaceBookTest@5606c0b]" started-at="2022-10-30T13:05:00 IST" name="mOne" finished-at="2022-10-30T13:05:25 IST" duration-ms="25276" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mOne -->
